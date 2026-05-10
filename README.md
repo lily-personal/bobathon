@@ -154,7 +154,7 @@ This hands-on lab introduces you to Bob, an AI coding assistant integrated into 
 
 Launch IBM Bob application by going to `Activities` and pressing on the `Bob` icon.
 
-Open the Folder `Lab1` and begin by following the set up guide.
+Open the Folder `Lab1` and begin by following the lab guide.
 
 ## Lab Guide
 
@@ -173,7 +173,7 @@ This guide covers the complete setup of the IBM Bob Smart SDLC lab environment. 
 
 Launch IBM Bob application by going to `Activities` and pressing on the `Bob` icon.
 
-Open the Folder `Lab2` and begin by following the set up guide.
+Open the Folder `Lab2` and begin by following the lab guide.
 
 ## Lab Guide
 
@@ -193,7 +193,7 @@ To get started, select the folder for the lab you wish to try, and follow the RE
 
 Launch IBM Bob application by going to `Activities` and pressing on the `Bob` icon.
 
-Open the Folder `Lab3` and begin by following the set up guide.
+Open the Folder `Lab3` and begin by following the lab guide.
 
 ## Lab Guide
 
