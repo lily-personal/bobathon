@@ -6,7 +6,8 @@ In this lab, you'll use IBM Bob's **Java Modernization mode** to modernize a leg
 
 You'll modernize it to:
 - **Java Version**: 21
-  
+
+Why do i need do Jira stuff?
 ## Prerequisites
 
 - IBM Bob IDE
@@ -319,18 +320,16 @@ Every participant needs a Jira User Story to work with. Here is the story that n
 
 To add a Jira Ticket go to the following board - https://ce-squad-7.atlassian.net/jira/software/projects/SCRUM/boards/1
 
-Click on '+Create' on either the top of the board or on the bottom of the "TO-DO" list
+4.1 Click on '+Create' on either the top of the board or on the bottom of the "TO-DO" list
 
 ![jira_create](./screenshots/jira_create.png)
 
-Start by adding the following title to the ticket and press "Enter".
+4.2 Fill in the Summary, Description and press "Enter" or "Create".
 
 `Summary`:
 ```
 Modernize the Pharmacy App from Java 8 / WebSphere Liberty to Java 21 / Liberty with Jakarta EE 8 and Struts 2
 ```
-
-Once you see the ticket, click on it and add the following to the description section.
 
 `Description`:
 ```text
@@ -436,15 +435,15 @@ Move the story to Done only after all required checks pass.
 ![jira_fill_out](./screenshots/jira_fill_out.png)
 
 
-Once you click `Create`, there should be a pop up for the ticket. When the pop up shows up, click on the ticket name.
+4.3 Click `Create`, there should be a pop up for the ticket. When the pop up shows up, click on the ticket name.
 
 ![jira_view_ticket](./screenshots/jira_view_ticket.png)
 
-Then assign the ticket to yourself and close out of the ticket screen. 
+4.4 Assign the ticket to yourself and close out of the ticket screen. 
 
 ![jira_ticket_screen](./screenshots/jira_ticket_screen.png)
 
-Now we have to create a sprint and assign the ticket to the sprint.
+4.5 Create a sprint and assign the ticket to the sprint.
 
 First, create a sprint by navigating to `Backlog` and clicking on `Create sprint`:
 
