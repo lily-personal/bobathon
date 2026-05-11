@@ -1,5 +1,11 @@
 # IBM Bob Lab — Java Modernization Lab Guide
 
+## Learning Objectives
+
+By completing this lab, you will be able to:
+- 
+
+
 ## Prerequisites
 
 - IBM Bob IDE
@@ -37,7 +43,7 @@
       </mcp_configuration>
     ```
 ---
-# For Bootcamp Participants:
+# For Bobathon Participants:
 
 ## Step 1: Set up your Atlassian account and API
 Accept the invite from the instructor ro join a jira space, after which the instructor will be able to add you to the Jira Board.
@@ -56,7 +62,7 @@ Generate your Atlassian Jira api token from here - https://id.atlassian.com/mana
   - Note: This mcp server has a lot of functions and can cause context bloat. The mcp block mentions important functions needed. If tokens and bob coins is a concern, turn off function not needed for the lab in the global mcp settings.
   - Open your Bob IDE and navigate to 'Bob - Settings' option at the bottom of the IDE and click on it.
   - ![img_2.png](screenshots/img_2.png)
-  - Click on MCP and open the global mcp setting
+  - Click on MCP and then click Open next to the Global MCPs
   - ![img_3.png](screenshots/img_3.png)
   - Copy the following MCP server connection details as a new mcp in that file: (you can remove the disabled tools section, we only added it to restrict scope of the mcp server)
   ```bash
@@ -125,7 +131,7 @@ Generate your Atlassian Jira api token from here - https://id.atlassian.com/mana
                 "jira_get_issue_development_info",
                 "jira_get_issues_development_info"
             ]
-        },
+        }
   ```
     -  Once added refresh all the servers just to ensure bob connects successfully. You can ignore this step if you already see the server in your mcp list with a green dot.
     - ![img_4.png](screenshots/img_4.png)
