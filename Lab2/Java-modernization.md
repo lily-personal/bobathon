@@ -57,7 +57,7 @@ Generate your Atlassian Jira api token from here - https://id.atlassian.com/mana
 - ![img_8.png](screenshots/img_8.png)
 
 ## Step 2: Set up the MCP Server
-
+what is MCP and why we do this?
 **MCP Server (need to be set up in bob global mcp setting)**:
 - **Atlassian Jira MCP** — Bob fetches user stories and posts completion comments
   - Note: This mcp server has a lot of functions and can cause context bloat. The mcp block mentions important functions needed. If tokens and bob coins is a concern, turn off function not needed for the lab in the global mcp settings.
