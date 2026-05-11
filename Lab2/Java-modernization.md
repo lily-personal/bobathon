@@ -1,11 +1,12 @@
 # IBM Bob Lab — Java Modernization Lab Guide
 
 ## Learning Objectives
+In this lab, you'll use IBM Bob's **Java Modernization mode** to modernize a legacy pharmacy management application. The application currently runs on:
+- **Java Version**: 8
 
-By completing this lab, you will be able to:
-- 
-
-
+You'll modernize it to:
+- **Java Version**: 21
+  
 ## Prerequisites
 
 - IBM Bob IDE
@@ -520,14 +521,6 @@ Java Modernization is the process of upgrading legacy Java applications to moder
 - **Application Server Migration**: Transitioning from traditional servers (like WebSphere) to lightweight runtimes (like Liberty)
 - **Dependency Updates**: Modernizing libraries and frameworks to current, supported versions
 - **Code Transformation**: Updating code patterns to leverage modern Java features
-
-#### About This Lab
-
-In this lab, you'll use IBM Bob's **Java Modernization mode** to modernize a legacy pharmacy management application. The application currently runs on:
-- **Java Version**: 8
-You'll modernize it to:
-- **Java Version**: 21
-
 
 ---
 ### Main Workflow: See how the defined custom mode interacts with Jira MCP server and rules we have defined to perform Java modernization
